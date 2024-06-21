@@ -1,0 +1,76 @@
+.ulnav{
+    justify-content: left;
+    display: flex;
+    list-style-type: none;
+}
+
+.linav{
+    padding-right: 20px;
+}
+
+.anav{
+    color: black;
+    text-decoration: none;
+}
+
+.img1{
+    width: 100px;
+    height: 100px;
+}
+
+.img2{
+    width: 200px; 
+    height: 275px;
+}
+
+
+.thead1{
+    color: blue;
+    font-family: "Playwrite ES", cursive;
+
+}
+
+.tablecontainer{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    margin: 0px;
+} 
+
+nav{
+    background-color:beige;
+    font-family: "Playwrite NG Modern", cursive;
+    padding: 20px;
+}
+
+h1{
+    font-family: "Oswald", sans-serif;
+    text-align: center;
+    color: maroon;
+}
+
+p{
+    text-align: center;
+    font-family: "Playwrite ES", cursive;
+    color:gray;
+
+}
+
+div{
+    text-align: center;
+
+}
+
+caption{
+    border: 2px solid black;
+    color: maroon;
+     font-family: "Oswald", sans-serif;
+ 
+}
+
+table{
+    border: 2px solid black;
+    margin: 100px;
+}
